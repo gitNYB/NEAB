@@ -1,0 +1,11 @@
+{
+  "name": "nodejsAngular",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.5.1",
+    "angular-route": "~1.5.1",
+    "bootstrap": "~3.3.6",
+    "angular-bootstrap": "~1.2.4"
+  },
+  "devDependencies": {}
+}
